@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm cxthxrsys, 21 years old 🧑‍💻.<br>Passionate about programming for over 10 years ⏳.<br>My main language is Python 🐍, but I also have experience with C++ 🛠️, Assembly 🧩, HTML & CSS 🌐, and Machine Learning 🤖.<br>Currently, I'm learning Rust 🦀 and diving deeper into systems programming ⚙️.<br><br>Always eager to tackle new challenges 🚀 and explore complex technologies 🧠.<br>I love optimizing solutions and advancing my skills 📈.
+Hi! I'm cxthxrsys, 21 years old 🧑‍💻.<br> Passionate about programming for over 10 years ⏳.<br> My main language is Python 🐍, but I also have experience with C++ 🛠️, Assembly 🧩, HTML & CSS 🌐, and Machine Learning 🤖.<br> Currently, I'm learning Rust 🦀 and diving deeper into systems programming ⚙️.<br> I have strong skills in reverse engineering 🕵️‍♂️ and a keen interest in cybersecurity 🛡️.<br><br> Always eager to tackle new challenges 🚀 and explore complex technologies 🧠.<br> I love optimizing solutions and advancing my skills 📈.
 
 
 # 💻 Tech Stack:
