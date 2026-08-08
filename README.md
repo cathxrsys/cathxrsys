@@ -1,11 +1,8 @@
 # About Me:
 Programmer, software engineer, fullstack developer, 22 years old.<br>
+Python, C++, Cybersec<br>
 I have been programming for over 12 years.<br>
-My main languages are Python and C++, but I also have experience with C, Assembler, JS, Rust, Go, C#, PHP, and Delphi.<br>
-I have experience working with React, TypeScript, JavaScript, JQuery and responsive layout.<br>
-Know how to work with QT and have experience in creating graphical applications.<br>
-I have strong skills in reverse engineering and cybersecurity.<br>
-I know how to work with Unix-like systems. I use Arch as my home OS, and I used Ubuntu, Kali Linux and Debian for about a year.<br>
+I use arch btw.<br>
 
 
 # 💻 Tech Stack:
